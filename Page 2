@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<meta charset = "utf-8">
+
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+<title> WASTE </title>
+
+</head>
+
+<body>
+
+<h1>Vex Robotics<h1>
+
+  <nav class="navbar">
+	    <ul>
+		      <li><a herf="index.html">Home</a></li>
+		      <li><a herf="Checkbox.html">Checkbox</a></li>
+	    </ul>
+  </nav>
+
+<input type="checkbox" id="task1" name="vehicle1" value="work">
+<label for="vehicle1"> I have found a task that involves with my work</label><br>
+<input type="checkbox" id="task2" name="vehicle2" value="work">
+<label for="vehicle2"> I have made a plan with instuctions to do my work</label><br>
+<input type="checkbox" id="task3" name="vehicle3" value="">
+<label for="vehicle3"> I have made sure my group have has a role</label><br>
+<input type="checkbox" id="task4" name="vehicle3" value="work">
+<label for="vehicle3"> I have made sure I have all my tools and resources for this task</label><br>
+
+
+
+</body>
+
+</html>
